@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhupesh (BhupeshB2)
+# 👋 Hi, I'm Bhupesh
 
 ### 🤖 Data Scientist & Machine Learning Engineer
 
@@ -72,14 +72,6 @@
 
 ## 🚀 Featured Projects
 
-> *(Coming Soon — watch this space!)*
-
-| Project | Description | Tech | Status |
-|---------|------------|------|--------|
-| 🔍 Customer Churn Predictor | ML model to predict churn with 90%+ accuracy | Python, XGBoost, Pandas | 🔧 In Progress |
-| 🧬 Medical Image Classifier | CNN-based disease detection from X-rays | PyTorch, CNN, OpenCV | 🔧 In Progress |
-| 📈 Stock Trend Analyzer | Time-series forecasting with LSTM | TensorFlow, LSTM, Matplotlib | 🔧 In Progress |
-| 💬 Sentiment Analysis API | NLP pipeline for real-time sentiment scoring | Python, NLP, Flask | 🔧 In Progress |
 
 ---
 
@@ -87,9 +79,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshb8801@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupesh9221@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhupeshB2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BhupeshB2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BhupeshBandi)
 
 </div>
 
