@@ -1,14 +1,26 @@
 <!-- Wave Banner Top -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d79c7&height=200&section=header&text=Bhupesh%20Bandi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20Systems&descAlignY=58&descSize=18&descColor=a8dadc&animation=fadeIn" />
 
-<!-- Typing Animation -->
+<!-- Typing Animation + Profile Views Counter -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D79C7&center=true&vCenter=true&width=700&lines=Building+Production+GenAI+Platforms+%F0%9F%9A%80;RAG+Pipelines+%7C+Agentic+AI+%7C+MLOps;LangChain+%7C+LangGraph+%7C+MCP+Protocol;AWS+Bedrock+%7C+SageMaker+%7C+FastAPI" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=BhupeshB2&color=2d79c7&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
 <br/>
+
+---
+
+## 🚧 Currently Working On
+
+> 🔨 **[Multi Agent Orchestration Platform](https://github.com/BhupeshB2/Multi_agent_orchestration_Platform)** — Production-grade multi-agent system with LangGraph, MCP orchestration, and governed agentic workflows.
+
+<!-- ↑ UPDATE THIS LINE whenever you start a new project — just swap the repo name, link, and one-line description -->
 
 ---
 
@@ -39,7 +51,7 @@ bhupesh = {
 ### 🤖 AI / ML & Generative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-412991?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-6E3FF3?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -82,17 +94,22 @@ bhupesh = {
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-<div align="center">
-
-| 🗂️ Project | 📝 Description | ⚙️ Stack |
+### 🔨 Active
+| Project | Description | Stack |
 |---|---|---|
-| **MCP Email Campaign Analysis Server** | MCP server exposing email analytics as AI-callable tools | Python · MCP · FastAPI |
-| **RAG Evaluation Framework** | End-to-end pipeline benchmarking retrieval & generation quality | LangChain · FAISS · OpenAI |
-| **Customer Churn Predictor** | ML model + API serving real-time churn predictions | scikit-learn · FastAPI · Docker |
+| [**Multi Agent Orchestration Platform**](https://github.com/BhupeshB2/Multi_agent_orchestration_Platform) | Production multi-agent system with LangGraph & MCP orchestration | Python · LangGraph · MCP |
 
-</div>
+### ✅ Previously Built
+| Project | Description | Stack |
+|---|---|---|
+| [**PDF ChatBot**](https://github.com/BhupeshB2/PDF-ChatBot) | Conversational RAG chatbot over PDF documents | Python · LangChain · OpenAI |
+| [**AI Engineer MCP Server**](https://github.com/BhupeshB2/ai-engineer-mcp-server) | MCP server giving Claude Desktop access to email campaign analytics | Python · MCP · FastAPI |
+| [**Customer Churn Predictor**](https://github.com/BhupeshB2/customer-churn-predictor) | ML model + API serving real-time churn predictions | scikit-learn · FastAPI · Docker |
+| [**Sentiment NLP API**](https://github.com/BhupeshB2/sentiment-nlp-api) | REST API for real-time sentiment classification | Python · FastAPI · NLP |
+
+<!-- ↑ When you finish a project, move it from Active → Previously Built and add the new one to Active -->
 
 ---
 
@@ -101,12 +118,30 @@ bhupesh = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhupeshbandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshbandi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhupeshB2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhupeshB2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhupeshbandi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=BhupeshB2&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BhupeshB2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d79c7,100:1a1b27&height=3" />
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhupeshB2&theme=tokyo-night&hide_border=true&area=true&custom_title=Bhupesh's%20Contribution%20Graph" />
 </div>
 
 ---
@@ -115,16 +150,16 @@ bhupesh = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupeshbandi/bhupeshbandi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhupeshbandi/bhupeshbandi/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/bhupeshbandi/bhupeshbandi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhupeshB2/BhupeshB2/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhupeshB2/BhupeshB2/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BhupeshB2/BhupeshB2/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 <details>
-<summary>⚙️ <b>Click to set up the Snake animation (one-time GitHub Action)</b></summary>
+<summary>⚙️ <b>Snake setup — create this file in your repo: <code>.github/workflows/snake.yml</code></b></summary>
 
-Create `.github/workflows/snake.yml` in your profile repo with:
+<br/>
 
 ```yaml
 name: Generate Snake
@@ -138,7 +173,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: bhupeshbandi
+          github_user_name: BhupeshB2
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -150,7 +185,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to **Settings → Actions → General** and enable "Read and write permissions" for workflows. Run it once manually from the Actions tab.
+**Then:**
+1. Settings → Actions → General → Workflow permissions → **Read and write** → Save
+2. Actions tab → Generate Snake → **Run workflow**
 
 </details>
 
